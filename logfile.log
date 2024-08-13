@@ -1,0 +1,11 @@
+[2024-08-13 17:56:01] [ INFO ] [DaoOdontologoH2:43] [guardar] odontologo persistido Odontologo{id=3, matricula=25338, nombre='BOYD', apellido='CROWDER'}
+[2024-08-13 17:56:12] [ INFO ] [DaoOdontologoH2:85] [buscarTodos] Odontologo{id=1, matricula=95664, nombre='JUAN', apellido='ARTEAGA'}
+[2024-08-13 17:56:12] [ INFO ] [DaoOdontologoH2:85] [buscarTodos] Odontologo{id=2, matricula=88524, nombre='MARIA', apellido='GONZALEZ'}
+[2024-08-13 17:57:40] [ INFO ] [DaoOdontologoH2:43] [guardar] odontologo persistido Odontologo{id=3, matricula=25338, nombre='BOYD', apellido='CROWDER'}
+[2024-08-13 17:58:09] [ INFO ] [DaoOdontologoH2:43] [guardar] odontologo persistido Odontologo{id=3, matricula=25338, nombre='Roxan', apellido='Lovelace'}
+[2024-08-13 18:04:18] [ INFO ] [DaoOdontologoH2:43] [guardar] odontologo persistido Odontologo{id=3, matricula=25338, nombre='Roxan', apellido='Lovelace'}
+[2024-08-13 18:04:36] [ INFO ] [DaoOdontologoH2:85] [buscarTodos] Odontologo{id=1, matricula=95664, nombre='JUAN', apellido='ARTEAGA'}
+[2024-08-13 18:04:36] [ INFO ] [DaoOdontologoH2:85] [buscarTodos] Odontologo{id=2, matricula=88524, nombre='MARIA', apellido='GONZALEZ'}
+[2024-08-13 18:13:12] [ INFO ] [DaoOdontologoH2:85] [buscarTodos] Odontologo{id=1, matricula=95664, nombre='JUAN', apellido='ARTEAGA'}
+[2024-08-13 18:13:12] [ INFO ] [DaoOdontologoH2:85] [buscarTodos] Odontologo{id=2, matricula=88524, nombre='MARIA', apellido='GONZALEZ'}
+[2024-08-13 18:13:19] [ INFO ] [DaoOdontologoH2:43] [guardar] odontologo persistido Odontologo{id=3, matricula=25338, nombre='Roxan', apellido='Lovelace'}
